@@ -19,4 +19,4 @@ $value = $client->get( 'key' );
 
 **Credits**
 
-Based on (https://github.com/ptrofimov/tinyredisclient)
+Based on [TinyRedisClient](https://github.com/ptrofimov/tinyredisclient)
