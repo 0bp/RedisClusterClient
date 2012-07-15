@@ -17,3 +17,6 @@ $client->set( 'key', 'value' );
 $value = $client->get( 'key' );
 ```
 
+**Credits**
+
+Based on (https://github.com/ptrofimov/tinyredisclient)
